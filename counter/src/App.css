@@ -1,0 +1,19 @@
+
+
+/* myapp */
+button{
+  background-color: cadetblue;
+  padding: 10px;
+  margin: 10px;
+}
+#root{
+  margin: 200px;
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+}
+h2{
+  color: black;
+  font-weight: 900;
+}
